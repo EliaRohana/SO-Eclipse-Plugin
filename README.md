@@ -1,4 +1,4 @@
-# SO Eclipse Plug-in
+# Stack Overflow Eclipse Plug-in
 
 Enables you to get answers from Stack Overflow directly to Eclipse!
 
